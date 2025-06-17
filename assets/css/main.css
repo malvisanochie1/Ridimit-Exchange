@@ -17263,3 +17263,6 @@ blockquote cite::before {
 .space-20{
   margin-bottom: 150px;
 }
+.img_hero{
+  max-width: 300px;
+}
